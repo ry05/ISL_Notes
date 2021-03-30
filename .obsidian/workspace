@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "53a1b2b2a1315ee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "913a73b10d37c62b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ec699058198a29d",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ddd9ca675e3b29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23c7482132d9263b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "787dd3d780c0d80f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "b5d93d9319023fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ae3e5a6219b4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9795f2f32b278bae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91d90928bf52773f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70c6be18c7b06103",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Questions.md",
+    "Quick Tips.md",
+    "Notations.md",
+    "Chapters/Chapter 10/Unsupervised Learning.md",
+    "Chapters/Chapter 10/Principal Component Analysis.md",
+    "Chapters/Chapter 10/Clustering.md",
+    "Chapters/Chapter 9/SVM for Multi-class.md",
+    "Chapters/Chapter 9/Support Vector Machines.md",
+    "Chapters/Chapter 8/Tree based Methods.md",
+    "Chapters/Chapter 8/Random Forests.md"
+  ]
+}
